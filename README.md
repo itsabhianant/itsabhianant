@@ -18,9 +18,7 @@
   <i>
 </p>
 
-***LAST UPDATED (26 MARCH 2021)***
-
-Hi, I'm Abhishek Anant Singh, a ***Noobgramer*** that did [print("Hello, World!')](https://twitter.com/itsabhianant/status/1372056251459248131) on 17 March 2021.
+***LAST UPDATED (27 MARCH 2021)***
 
 - 💻 **What I know?** -> *LINUX*
 - 🎒 **Learning** -> *Pyhton* (I know the basics quite well, in my way of getting to the advanced level)
