@@ -8,7 +8,7 @@
 <br />
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count 👀<br>
   <img src="https://profile-counter.glitch.me/itsabhianant/count.svg" /><br>
   
   <b>
@@ -32,15 +32,19 @@ Hi, I'm Abhishek Anant Singh, a ***Noobgramer*** that did [print("Hello, World!'
 - ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
 - ✉️ **Direct email me** -> itsabhianant@gmail.com
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabhianant&show_icons=true&theme=dark)
+<h3 align="center">⚙️  GitHub Analytics</h3>
 
-***Note:*** *The most used language doesn't specify my proeficiency in that particular language as compared to other languages. It just shows which language drinks more cup of coffee...*
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="itsabhianant's Github Stats" height="200"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="itsabhianant's Top Languages" height="200"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=radical" alt="itsabhianant&count_private=true&theme=radical" alt="cicerotcv's streaks" height="175"/>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=t_shirts&show_owner=itsabhianant&theme=dark)](https://github.com/itsabhianant/t_shirts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=dream_vacation&show_owner=itsabhianant&theme=dark)](https://github.com/itsabhianant/dream_vacation)
+
+<br>
+<hr>
 
 <h3 align="center">🛠 Some topics I'm familiar with</h3>
 
