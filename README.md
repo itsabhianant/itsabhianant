@@ -38,9 +38,9 @@ Hi, I'm Abhishek Anant Singh, a ***Noobgramer*** that did [print("Hello, World!'
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=t_shirts&show_owner=itsabhianant&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=t_shirts&show_owner=itsabhianant&theme=dark)](https://github.com/itsabhianant/t_shirts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=dream_vacation&show_owner=itsabhianant&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsabhianant&repo=dream_vacation&show_owner=itsabhianant&theme=dark)](https://github.com/itsabhianant/dream_vacation)
 
 <h3 align="center">🛠 Some topics I'm familiar with</h3>
 
