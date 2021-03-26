@@ -20,8 +20,8 @@
 
 ***LAST UPDATED (27 MARCH 2021)***
 
-- 💻 **What I know?** -> *LINUX*
-- 🎒 **Learning** -> *Pyhton* (I know the basics quite well, in my way of getting to the advanced level)
+- 💻 **What I know?** -> *LINUX*, *Python*
+- 🎒 **Learning** -> *Django* 
 - 🛠️ **Goals(2021)** -> *Pyhton*, *PyGame*, *Matplotlib*, *Django*, *C*, *C++*, *DSA*
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
 - ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
