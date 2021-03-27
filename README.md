@@ -25,24 +25,41 @@
       ```
       **on 17 March 2021**
       
-- 💻 **What I know?** -> *LINUX*
+- 💻 **What I know?:**
+   - *Linux*
+   - *HTML5*
+   - *CSS*
+   
 - 🎒 **Learning** -> *Python* (I know the basics well, on my path of getting to advanced)
-- 🛠️ **Goals(2021)** -> *Pyhton*, *PyGame*, *Matplotlib*, *Django*, *C*, *C++*, *DSA*
+- 🛠️ **Goals(2021):**
+   - [x] *LINUX*
+   - [x] *HTML5*
+   - [x] *CSS*
+   - [ ] *Python*
+   - [ ] *Pygame*
+   - [ ] *Matplotlib*
+   - [ ] *Django*
+   - [ ] *C*
+   - [ ] *C++*
+   - [ ] *Data Structures and Algorithms*
+              
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
 - ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
-- 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant) **I only use Twitter:~)**
+- 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant) **[I use Twitter only:~)]**
 - 💼 **Job related** -> DM on [Twitter](https://twitter.com/itsabhianant). It's not a compulsion to follow 😉
 - ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
-- ✉️ **Direct email me** -> itsabhianant@gmail.com
+- ✉️ **Email me** -> itsabhianant@gmail.com
 
 <h3 align="center">⚙️  GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="itsabhianant's Github Stats" height="200"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="itsabhianant's Top Languages" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=radical" alt="itsabhianant&count_private=true&theme=radical" alt="itsabhianant's streaks" height="175"/>
-<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg" height ="400">
-<img src="https://github.com/itsabhianant/itsabhianant/blob/main/images/codeStats.svg" alt="Language Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=cobalt" alt="itsabhianant's Github Stats" height="200"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=cobalt" alt="itsabhianant's Top Languages" height="200"/>
+<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="350">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant's streaks" height="175"/>
+
+  
+
 </p>
 
 
