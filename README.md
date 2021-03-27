@@ -40,8 +40,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="itsabhianant's Github Stats" height="200"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="itsabhianant's Top Languages" height="200"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=radical" alt="itsabhianant&count_private=true&theme=radical" alt="itsabhianant's streaks" height="175"/>
+<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg" height ="400">
+<img src="https://github.com/itsabhianant/itsabhianant/blob/main/images/codeStats.svg" alt="Language Stats"/>
 </p>
 
 
@@ -60,11 +61,14 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Django](https://shields.io/badge/Django%20-%092e20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Pygame](https://shields.io/badge/Pygame%20-%092e20.svg?&style=for-the-badge&logo=Pygame&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib%20-%2314354C.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white)
-
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
