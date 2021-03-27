@@ -20,8 +20,13 @@
 
 ***LAST UPDATED (27 MARCH 2021)***
 
-- 💻 **What I know?** -> *LINUX*, *Python*
-- 🎒 **Learning** -> *Django* 
+- 🍰 ```
+      print("Hello, World!")
+      ```
+      **on 17 March 2021**
+      
+- 💻 **What I know?** -> *LINUX*
+- 🎒 **Learning** -> *Python* (I know the basics well, on my path of getting to advanced)
 - 🛠️ **Goals(2021)** -> *Pyhton*, *PyGame*, *Matplotlib*, *Django*, *C*, *C++*, *DSA*
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
 - ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
