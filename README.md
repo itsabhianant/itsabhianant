@@ -59,7 +59,7 @@
 <img src="https://wakatime.com/share/@itsabhianant/3daf46a6-b42f-4be0-b955-66137c9c7496.svg" height="200">
 <img src="https://wakatime.com/share/@itsabhianant/d4b1a419-fd4b-4ad0-9974-5813f0f2b5ba.svg" height="200">
 <img src="https://wakatime.com/share/@itsabhianant/4093f097-8a78-448e-b3fd-2711074d8fe6.svg" height="200">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant's streaks" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant's streaks" height="200"/>
 
   
 
