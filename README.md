@@ -18,7 +18,7 @@
   <i>
 </p>
 
-***LAST UPDATED (27 MARCH 2021)***
+***LAST UPDATED (28 MARCH 2021)***
 
 - 🍰 ```
       print("Hello, World!")
@@ -50,12 +50,15 @@
 - ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
 - ✉️ **Email me** -> itsabhianant@gmail.com
 
-<h3 align="center">⚙️  GitHub Analytics</h3>
+<h3 align="center">⚙️  Some Analytics</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=cobalt" alt="itsabhianant's Github Stats" height="200"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=cobalt" alt="itsabhianant's Top Languages" height="200"/>
-<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="350">
+<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="200">
+<img src="https://wakatime.com/share/@itsabhianant/3daf46a6-b42f-4be0-b955-66137c9c7496.svg" height="200">
+<img src="https://wakatime.com/share/@itsabhianant/d4b1a419-fd4b-4ad0-9974-5813f0f2b5ba.svg" height="200">
+<img src="https://wakatime.com/share/@itsabhianant/4093f097-8a78-448e-b3fd-2711074d8fe6.svg" height="200">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant&count_private=true&theme=cobalt" alt="itsabhianant's streaks" height="175"/>
 
   
