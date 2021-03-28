@@ -31,7 +31,7 @@
    - *CSS*
    
 - 🎒 **Learning** -> *Python* (I know the basics well, on my path of getting to advanced)
-- 🛠️ **Goals(2021):**
+- 🛠️ **Goals(2021):** 
    - [x] *LINUX*
    - [x] *HTML5*
    - [x] *CSS*
