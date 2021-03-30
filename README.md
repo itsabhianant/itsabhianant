@@ -18,7 +18,7 @@
   <i>
 </p>
 
-***LAST UPDATED (29 MARCH 2021)***
+***LAST UPDATED (30 MARCH 2021)***
 
 - 🍰 ```
       print("Hello, World!")
@@ -27,14 +27,10 @@
       
 - 💻 **What I know?:**
    - *Linux*
-   - *HTML5*
-   - *CSS*
    
 - 🎒 **Learning** -> *Python* (I know the basics well, on my path of getting to advanced)
 - 🛠️ **Goals(2021):** 
    - [x] *LINUX*
-   - [x] *HTML5*
-   - [x] *CSS*
    - [ ] *Python*
    - [ ] *MySQL*
    - [ ] *Pygame*
@@ -81,8 +77,6 @@
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![Pygame](https://shields.io/badge/Pygame%20-%092e20.svg?&style=for-the-badge&logo=Pygame&logoColor=white)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib%20-%2314354C.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white)
