@@ -79,11 +79,6 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
-)
-
-
-
-
 </div>
 
 <br>
