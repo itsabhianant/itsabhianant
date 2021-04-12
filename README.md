@@ -34,7 +34,6 @@
 - 🛠️ **Goals(2021):** 
 
    - [x] *Python*
-   - [ ] *reST*
    - [ ] *MySQL*
    - [ ] *MongoDB*
    - [ ] *C*
