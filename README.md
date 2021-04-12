@@ -20,7 +20,7 @@
   <i>
 </p>
 
-***LAST UPDATED (1 APRIL 2021)***
+***LAST UPDATED (12 APRIL 2021)***
 
 - 🍰 ```
       print("Hello, World!")
@@ -28,13 +28,13 @@
       **on 17 March 2021**
       
 - 💻 **What I know?:**
-   - *Linux*
+   - *Python*
    
-- 🎒 **Learning** -> *Python* (I know the basics well, on my path of getting to advanced)
+- 🎒 **Learning** -> *Python* (Making projects)
 - 🛠️ **Goals(2021):** 
-   - [x] *LINUX*
-   - [ ] *Python*
-   - [ ] *MySQL*
+
+   - [x] *Python*
+   - [ ] *DBMS*
    - [ ] *Pygame*
    - [ ] *Matplotlib*
    - [ ] *Django*
@@ -74,7 +74,6 @@
 
 ![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
