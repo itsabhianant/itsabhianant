@@ -9,16 +9,7 @@
 <br />
 <br />
 
-<p align="center"> 
-  Visitor count 👀<br>
-  <img src="https://profile-counter.glitch.me/itsabhianant/count.svg" /><br>
-  
-  <b>
-  Hey you...<br>
-  Yeah you...<br>
-  Are you my cup of coffee, because you always keep on visiting me...</b>
-  <i>
-</p>
+
 
 ***LAST UPDATED (13 APRIL 2021)***
 
