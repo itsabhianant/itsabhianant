@@ -10,8 +10,9 @@
 <br />
 
 
+***LAST UPDATED (16 APRIL 2021)***
 
-***LAST UPDATED (13 APRIL 2021)***
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Coffee/coffee.gif" />
 
 - 🍰 ```
       print("Hello, World!")
@@ -30,6 +31,7 @@
    - [ ] *C*
    - [ ] *C++*
    - [ ] *Data Structures and Algorithms*
+
               
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
 - ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
@@ -74,3 +76,4 @@
 <br>
 
 <hr>
+
