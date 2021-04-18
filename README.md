@@ -2,8 +2,6 @@
 
 <a href="https://twitter.com/itsabhianant">
   <img align="left" alt="Abhishek Anant Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-<a href="https://discord.com/channels/827242340661592146/827242343601274892">
-  <img align="left" alt="Abhishek Anant Singh | Discord" width="21px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" />
 </a>
 
 <br />
@@ -35,7 +33,7 @@
               
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
 - ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
-- 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant) , [Discord](https://discord.com/channels/827242340661592146/827242343601274892)
+- 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant)
 - 💼 **Job related** -> DM on [Twitter](https://twitter.com/itsabhianant). It's not a compulsion to follow 😉
 - ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
 - ✉️ **Email me** -> itsabhianant@gmail.com
