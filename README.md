@@ -8,7 +8,7 @@
 <br />
 
 
-***LAST UPDATED (16 APRIL 2021)***
+***LAST UPDATED (17 APRIL 2021)***
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Coffee/coffee.gif" />
 
@@ -32,11 +32,12 @@
 
               
 - 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
-- ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*
+- ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*, *Maths*, *Physics*
 - 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant)
 - 💼 **Job related** -> DM on [Twitter](https://twitter.com/itsabhianant). It's not a compulsion to follow 😉
 - ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
 - ✉️ **Email me** -> itsabhianant@gmail.com
+- 🤓 **Fun Fact** -> ```Quantum Physics has the ability to change what you call the ideal way of living life.```
 
 <h3 align="center">⚙️  Some Analytics</h3>
 
