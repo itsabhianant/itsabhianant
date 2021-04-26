@@ -29,8 +29,8 @@
    - [ ] *CSS*
    - [ ] *Javascript*
    - [ ] *Some frameworks of CSS, Python, Javascript*
-   - [ ] *Data Structures and Algorithms*
    - [ ] *C++*
+   - [ ] *Data Structures and Algorithms*
    - [ ] *Some Databases*
    
 
@@ -66,12 +66,12 @@
 
 ![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-<!--- ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg) -->
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-<!--- ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) -->
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!--- ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg) -->
+<!--- ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) -->
 <!--- ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) -->
 
 </div>
