@@ -1,7 +1,13 @@
 ### Hi there, I'm Abhishek!👋
 
 <a href="https://twitter.com/itsabhianant">
-  <img align="left" alt="Abhishek Anant Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="itsabhianant | Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+<a href="https://www.reddit.com/user/itsabhianant">
+  <img align="left" alt="itsabhianant | Reddit" width="21px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />
+</a>
+<a href="https://discord.com/channels/827242340661592146/827242343601274892">
+  <img align="left" alt="Noobgrammers | Discord" width="21px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a>
 
 <br />
@@ -48,7 +54,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=cobalt" alt="itsabhianant's Github Stats" height="300"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=cobalt" alt="itsabhianant's Top Languages" height="200"/>
-<img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="450">
+<!-- <img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="450"> -->
 
   
 
