@@ -25,12 +25,13 @@
       
 - 💻 **What I know?:**
    - *Python*
+   - *C*
    
 - 🎒 **Learning** -> *CS50 Introdution to Computer Science*
 - 🛠️ **Goals(2021):** 
 
    - [x] *Python*
-   - [ ] *C*
+   - [x] *C*
    - [ ] *HTML*
    - [ ] *CSS*
    - [ ] *Javascript*
