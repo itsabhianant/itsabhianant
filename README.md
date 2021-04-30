@@ -27,7 +27,7 @@
    - *Python*
    - *C*
    
-- 🎒 **Learning** -> *CS50 Introdution to Computer Science*
+- 🎒 **Learning** -> *CS50 Introdution to Computer Science* -by [David J. Malan](https://twitter.com/davidjmalan)
 - 🛠️ **Goals(2021):** 
 
    - [x] *Python*
