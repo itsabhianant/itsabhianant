@@ -32,11 +32,11 @@
 
    - [x] *Python*
    - [x] *C*
+   - [x] *C++*
    - [ ] *HTML*
    - [ ] *CSS*
    - [ ] *Javascript*
    - [ ] *Some frameworks of CSS, Python, Javascript*
-   - [ ] *C++*
    - [ ] *Data Structures and Algorithms*
    - [ ] *Some Databases*
    
@@ -78,7 +78,17 @@
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--- ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg) -->
-<!--- ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) -->
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Vim](https://www.vectorlogo.zone/logos/vim/vim-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg)
+![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg)
+<!--- ![HTML5] (https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) -->
+<!--- ![CSS3] (https://img.shields.io/badge/css3%20-%2300599C.svg?&style=for-the-badge&logo=css3&logoColor=white) -->
+<!--- ![Javascript] (https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) -->
+<!--- ![Bootstrap] (https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg) -->
+<!--- ![React] (https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) -->
+<!--- ![Flask] (https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) -->
+<!--- ![SQLite] (https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) -->
 <!--- ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) -->
 
 </div>
