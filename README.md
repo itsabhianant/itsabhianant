@@ -14,45 +14,20 @@
 <br />
 
 
-***LAST UPDATED (1 MAY 2021)***
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Coffee/coffee.gif" />
 
 - 🍰 ```
       print("Hello, World!")
       ```
       **on 17 March 2021**
+
+<img align="center" height="300" width="450" alt="" src="https://raw.githubusercontent.com/snipe/animated-gifs/master/Coffee/coffee.gif" />
+
+
       
-- 💻 **What I know?:**
-   - *Python*
-   - *C*
-   
-- 🎒 **Learning** -> *CS50 Introdution to Computer Science* -by [David J. Malan](https://twitter.com/davidjmalan)
-- 🛠️ **Goals(2021):** 
 
-   - [x] *Python*
-   - [x] *C*
-   - [x] *C++*
-   - [ ] *HTML*
-   - [ ] *CSS*
-   - [ ] *Javascript*
-   - [ ] *Some frameworks of CSS, Python, Javascript*
-   - [ ] *Data Structures and Algorithms*
-   - [ ] *Some Databases*
-   
 
-              
-- 🔭 **What in 2021?** -> Focus more on *Contributing to Open Source Projects* and *Competitive Programming*
-- ❤️ **Hobbies** -> *Dancing*, *Streaming Youtube*, *Playing with LINUX*, *Maths*, *Physics*
-- 📬 **Get in touch** -> [Twitter | itsabhianant](https://twitter.com/itsabhianant)
-- 💼 **Job related** -> DM on [Twitter](https://twitter.com/itsabhianant). It's not a compulsion to follow 😉
-- ❓  **Ask me anything** -> [Here](https://github.com/itsabhianant/itsabhianant/discussions/categories/q-a)
-- ✉️ **Email me** -> itsabhianant@gmail.com
-- 🤓 **Fun Fact** -> ```Quantum Physics has the ability to change what you call the ideal way of living life.```
 
-<h3 align="center">⚙️  Some Analytics</h3>
-
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=cobalt" alt="itsabhianant's Github Stats" height="300"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=cobalt" alt="itsabhianant's Top Languages" height="200"/>
 <!-- <img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="450"> -->
