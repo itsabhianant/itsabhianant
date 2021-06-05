@@ -28,8 +28,8 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=dark" alt="itsabhianant's Github Stats" height="300"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=dark" alt="itsabhianant's Top Languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsabhianant&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=tokyonight" alt="itsabhianant's Github Stats" height="300"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhianant&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=tokyonight" alt="itsabhianant's Top Languages" height="200"/>
 <!-- <img src="https://wakatime.com/share/@itsabhianant/d6fdca98-f1ee-49e3-a208-19aea4c55dfa.svg?&theme=radical" height ="450"> -->
 
   
