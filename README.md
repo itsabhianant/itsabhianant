@@ -41,7 +41,7 @@
 <br>
 <hr>
 
-<h3 align="center">🛠 Some topics I'm familiar with</h3>
+<h3 align="center">🛠 Some fields I'm familiar with</h3>
 
 
 <div style="max-width:68rem;">
